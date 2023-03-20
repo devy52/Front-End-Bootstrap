@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.btnn,.btnp{
+    height: 30px;
+    width: 30px;
+    opacity: 100;
+    position: absolute;
+    top: 45%;
+}
+.i2{
+    height: auto;
+}
+.i1{
+    width: 13%;
+}
+.mhe{
+    font-family: sans-serif;
+}
+.btw{
+    width:100.9%
+}
+.b1{align-self: center;}
